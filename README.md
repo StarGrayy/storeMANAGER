@@ -1,6 +1,6 @@
 -------------------------------Inventory Management System-----------------------------------------
-It's a "storeMANAGER"!
-I have created a website for managing a store for small retail shop owners.
+
+It's a "storeMANAGER"! I have created a website for managing a store for small retail shop owners.
 
 Features :
 1. A system where they can easily add new products, update their details and remove outdated ones.
