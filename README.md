@@ -1,5 +1,3 @@
--------------------------------Inventory Management System-----------------------------------------
-
 It's a "storeMANAGER"! I have created a website for managing a store for small retail shop owners.
 live website: https://storemanager.netlify.app/
 
